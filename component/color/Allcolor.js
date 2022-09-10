@@ -1,0 +1,20 @@
+const HeaderColor = "#9e9e9e";
+const MainScreenColor="rgba(0,0,0,0.8)";
+const TextColor="white";
+const PhoneColor="#fbc1cc";
+const WorkColor="#b69efe";
+const ProfileColor="#60efbc";
+const ShopColor="#1fe4f5";
+const SeeButtonColor="red";
+const CardBackgroundColor="rgba(0,0,0,0.4)"
+const ButtonColor="transparent";
+const ButtonBorderColor="#E4EDF0";
+const ShopScreenColor="#0F1724";
+const TextHeader="black";
+const IndexColor="#1ef7f7"; 
+const FormScreenFirstView="rgba(0,0,0,0.3)";
+const TextInputPlaceHolderColor="#424242";
+const SecondEndFormColor="rgba(0,0,0,0.1)";
+const ColorForText="black";
+const ModalScreenBackgroundColor="rgba(0,0,0,1)"
+export  { HeaderColor , ModalScreenBackgroundColor, ColorForText, SeeButtonColor, CardBackgroundColor, ButtonBorderColor, SecondEndFormColor , TextInputPlaceHolderColor , FormScreenFirstView , TextColor , ShopColor , PhoneColor , WorkColor , ProfileColor , ButtonColor , ShopScreenColor , TextHeader , IndexColor , MainScreenColor };
